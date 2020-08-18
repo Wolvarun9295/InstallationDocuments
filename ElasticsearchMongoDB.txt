@@ -1,0 +1,3 @@
+# Elasticsearch with MongoDB
+
+https://docs.google.com/document/d/1Y2t8yhJ7GHhY2sHCBUSLQiGd9VRgsaiwWzQG67a1wJk/edit
